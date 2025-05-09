@@ -1,16 +1,21 @@
-## Hi there 👋
+ # 👨‍💻 Cloud Engineer | AWS | Ubuntu | Git Bash | Automation
 
-<!--
-**cwebhunter01/cwebhunter01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm cwweb. I build and automate cloud infrastructure using AWS, Ubuntu, and Git.  
+I'm focused on deploying scalable systems, writing clean Bash/Python scripts, and managing infrastructure with best DevOps practices.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- AWS (EC2, S3, IAM, VPC)
+- Ubuntu Server
+- Bash & Python scripting
+- Git + GitHub
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects I'm working on
+- EC2 auto-launch Bash script
+- VPC setup with Terraform
+- CI/CD pipeline with GitHub Actions
+
+## 📈 Currently learning
+- Terraform modules
+- EKS (Elastic Kubernetes Service)
+- Cloud monitoring with CloudWatch
